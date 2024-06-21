@@ -1,0 +1,19 @@
+{
+    "name": "rowa/zkteco",
+    "description": "ZKTeco Laravel Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zkteco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rowathy",
+            "email": "84306240+rowathy@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
