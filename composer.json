@@ -14,13 +14,6 @@
             "email": "84306240+rowathy@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Zkteco\\ZktecoServiceProvider"
-            ]
-        }
-    }
+    "minimum-stability": "stable",
+    "require": {}  
 }
