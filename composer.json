@@ -14,6 +14,6 @@
             "email": "84306240+rowathy@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}  
 }
